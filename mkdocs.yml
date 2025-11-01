@@ -33,6 +33,3 @@ nav:
       - Links: resources/links.md
   - About: about.md
 
-plugins:
-  - search
-  - awesome-pages
