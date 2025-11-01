@@ -1,0 +1,19 @@
+site_name: Illegitimate Humans
+site_url: https://illegitimatehumans.com
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: amber
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - content.code.annotate
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Links: links.md
