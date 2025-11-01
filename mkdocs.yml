@@ -33,6 +33,6 @@ nav:
       - Clients: plex/clients.md
       - Transcoding: plex/transcoding.md
       - Server Setup: plex/server-setup.md
-      - Mobile Apps: plex/mobile.md
-      - Tips & Tricks: plex/tips.md
+      - Mobile: plex/mobile.md
+      - Tips: plex/tips.md
       - Resources: plex/resources.md
