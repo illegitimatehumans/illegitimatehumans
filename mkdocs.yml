@@ -1,19 +1,38 @@
 site_name: Illegitimate Humans
-site_url: https://illegitimatehumans.com
+site_description: A Wiki-style documentation site
+site_author: Montreal L. Barrett
+site_url: https://www.illegitimatehumans.com
+
 theme:
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+
   name: material
-  language: en
   palette:
-    - scheme: slate
-      primary: indigo
-      accent: amber
+    scheme: default      # light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
-    - navigation.instant
-    - navigation.tabs
+    - navigation.expand
+    - navigation.sections
     - navigation.top
-    - content.code.annotate
+    - search.highlight
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+
 nav:
   - Home: index.md
+  - Guides:
+      - Installation: guides/installation.md
+      - Usage: guides/usage.md
+      - FAQ: guides/faq.md
+  - Resources:
+      - Downloads: resources/downloads.md
+      - Links: resources/links.md
   - About: about.md
-  - Projects: projects.md
-  - Links: links.md
+
+plugins:
+  - search
+  - awesome-pages
