@@ -1,11 +1,6 @@
-~~~{"variant":"standard","title":"index.md - Homepage","id":"86922"}
-# Welcome to Illegitimate Humans
+# Illegitimate Humans Wiki
 
-Welcome to **Illegitimate Humans**, a hub for experiments, projects, and creative tech explorations.  
+Welcome to the IllegitimateHumans Media Wiki. This site provides guides and tips for popular media platforms, including Plex.
 
-Here you will find a collection of projects, resources, and links that explore the intersection of technology, AI, and human creativity.
-
-- Browse our projects
-- Learn more about our team
-- Discover useful resources
-~~~
+- [Plex](plex/index.md) — media server setup and client information
+- Other platforms coming soon...

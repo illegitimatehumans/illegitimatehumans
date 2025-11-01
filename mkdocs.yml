@@ -24,12 +24,13 @@ theme:
 
 nav:
   - Home: index.md
-  - Guides:
-      - Installation: guides/installation.md
-      - Usage: guides/usage.md
-      - FAQ: guides/faq.md
-  - Resources:
-      - Downloads: resources/downloads.md
-      - Links: resources/links.md
-  - About: about.md
-
+  - Plex:
+      - Overview: plex/index.md
+      - Getting Started: plex/getting-started.md
+      - Clients: plex/clients.md
+      - Transcoding: plex/transcoding.md
+      - Server Setup: plex/server-setup.md
+      - Mobile Apps: plex/mobile.md
+      - Tips & Tricks: plex/tips.md
+      - FAQ: plex/faq.md
+      - Resources: plex/resources.md
