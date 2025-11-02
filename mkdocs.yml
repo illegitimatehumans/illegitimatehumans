@@ -27,7 +27,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Plex:
+  - plex:
       - Overview: plex/index.md
       - Getting Started: plex/getting-started.md
       - Clients: plex/clients.md
